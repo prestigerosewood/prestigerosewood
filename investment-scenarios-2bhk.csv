@@ -1,0 +1,10 @@
+measure,bear,base,optimistic
+Rent INR per sq ft per month,40,48,55
+Vacancy months per year,2,1,0.5
+Gross yield on base price %,3.43,4.11,4.71
+Gross yield on all-in cost %,2.94,3.52,4.04
+Net yield before income tax %,2.04,2.77,3.36
+Net yield after income tax %,1.53,2.09,2.54
+Price growth per year %,1,5,7.2
+Rate per sq ft Dec 2030,14568,17017,18489
+"Gain after exit costs and tax, INR lakh",-25.9,3.6,19.2

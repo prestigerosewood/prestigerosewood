@@ -1,0 +1,58 @@
+{
+  "project": "Prestige Rosewood",
+  "phase": "Phase 3 of Prestige Raintree Park",
+  "developer": "Prestige Estates Projects Ltd",
+  "address": "Varthur Main Road (SH-35), opposite Varthur Lake, Whitefield, Bengaluru 560087",
+  "township_acres": 125,
+  "phase_acres": 15,
+  "apartments": 980,
+  "floors": "G+19",
+  "tower_count": "to be confirmed in the RERA filing",
+  "lake_facing": "Tower A only",
+  "open_space": "80%+ (proposed)",
+  "clubhouse_sqft": "50,000 (proposed)",
+  "base_rate_prelaunch_inr_sqft": 14000,
+  "base_rate_launch_inr_sqft": 16500,
+  "eoi_token_inr": 200000,
+  "eoi_window": "July 2026 to 30 Nov 2026",
+  "rera_status": "Not yet issued as of 16 Nov 2026; expected 2nd week of Dec 2026",
+  "construction_start": "Q1 2027 (planned)",
+  "possession": "Dec 2030 (developer target; legally committed date will be the one in the RERA registration)",
+  "payment_plan": "10% booking / 30% agreement / 55% construction-linked / 5% possession",
+  "last_verified": "2026-11-16",
+  "source": "https://prestigerosewood.co.in/",
+  "configurations": [
+    {
+      "configuration": "2 BHK",
+      "super_built_up_min_sqft": 1250,
+      "super_built_up_max_sqft": 1450,
+      "base_price_from_inr": 17500000
+    },
+    {
+      "configuration": "3 BHK",
+      "super_built_up_min_sqft": 1850,
+      "super_built_up_max_sqft": 2100,
+      "base_price_from_inr": 25900000
+    },
+    {
+      "configuration": "4 BHK",
+      "super_built_up_min_sqft": 2800,
+      "super_built_up_max_sqft": 3000,
+      "base_price_from_inr": 39200000
+    },
+    {
+      "configuration": "4 BHK + Maid's",
+      "super_built_up_min_sqft": 3200,
+      "super_built_up_max_sqft": 3200,
+      "base_price_from_inr": 44800000
+    }
+  ],
+  "distances_km": {
+    "ITPL": 4,
+    "Hopefarm Junction": 4,
+    "Whitefield (Kadugodi) metro": 4.5,
+    "Outer Ring Road": 6,
+    "Whitefield railway station": 6,
+    "Kempegowda International Airport": 45
+  }
+}

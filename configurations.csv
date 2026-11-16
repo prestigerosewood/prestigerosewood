@@ -1,0 +1,5 @@
+configuration,super_built_up_min_sqft,super_built_up_max_sqft,base_price_from_inr
+2 BHK,1250,1450,17500000
+3 BHK,1850,2100,25900000
+4 BHK,2800,3000,39200000
+4 BHK + Maid's,3200,3200,44800000
